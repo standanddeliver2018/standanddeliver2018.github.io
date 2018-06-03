@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 title: Your awesome title
 name: Your Name
 email: your-email@example.com
@@ -169,6 +168,3 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-minifier
-=======
-theme: jekyll-theme-minimal
->>>>>>> 3b54abecd9ac8b91bb1f83cad4b6a0f8f245ac38
