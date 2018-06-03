@@ -1,19 +1,10 @@
 permalink: /:year:month:day/:title
-<<<<<<< HEAD
-url: https://standanddeliver2018.github.io
-baseurl: /project
-
-# variables
-name: Stan'd and Deliver 2
-description: Mongol Rally 2018
-=======
 url: https://standanddeliver2018.github.io/
 baseurl: /project
 
 # variables
 name: Team Stan'd and Deliver
-description: Your description here
->>>>>>> 85597db4af37b49974e113c905f426bb4c625f26
+description: Mongol Rally 2018
 google_verification: null
 
 
