@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Default Page"
-tags: Week_1 Week_2 Week_3 Week_4 Week_5 Week_6
+tags: Week1 Week-2 Week-3 Week-4 Week-5 Week-6
 ---
 
 ## Lorem Ipsum
