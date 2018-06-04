@@ -1,14 +1,20 @@
-tag1:
-  name: tag1
+Week_1:
+  name: Week_1
 
-tag2:
-  name: tag2
+Week_2:
+  name: Week_2
 
-tag3:
-  name: tag3
+Week_3:
+  name: Week_3
 
-tag4:
-  name: tag4
+Week_4:
+  name: Week_4
+
+Week_5:
+  name: Week_5
+
+Week_6:
+  name: Week_6
 
 Live_Tracker:
   name: Live_Tracker
