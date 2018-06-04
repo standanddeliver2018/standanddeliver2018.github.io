@@ -6,7 +6,7 @@ title: Live Tracker
 
 
 <iframe
- src='https://spotwalla.com/tripViewer.php?id=1949c5b15a6bdf2b36&showAll=yes'
+ src='https://spotwalla.com/tripViewer.php?id=1949c5b15a6bdf2b36&showAll=yes&showInfo=no'
  width='600'
  height='400'
  scrolling='false'
