@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lorem Ipsum"
+title: "Default Page"
 tags: Week_1 Week_2 Week_3 Week_4 Week_5 Week_6
 ---
 
