@@ -2,6 +2,7 @@
 layout: default
 title: Who we are
 ---
+# Team Stan'd and Deliver
 
 We are Rich, Dan and Ben - three previously unrelated guys brought together by the desire of achieving what most would consider a really bad idea: hopping into a dreadfully inappropriate car attempting to drive all the way from the UK to Mongolia in the name of charity and adventure.
 
