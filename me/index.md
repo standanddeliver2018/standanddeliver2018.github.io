@@ -3,4 +3,12 @@ layout: default
 title: Who we are
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+We are Rich, Dan and Ben - three previously unrelated guys brought together by the desire of achieving what most would consider a really bad idea: hopping into a dreadfully inappropriate car attempting to drive all the way from the UK to Mongolia in the name of charity and adventure.
+
+This endeavour will see us crossing 10,000 miles for 6 weeks through some of the most inhospitable driving terrain on the planet - including 20 countries, 8 time zones, 5 mountain ranges and countless potholes.
+
+We’re not doing this just to spite our mothers. We’ve partnered up with four great charities: WaterAid, Cool Earth, Mind and MNDA. They focus on projects that are close to our hearts: water, environment, mental and physical health.
+
+Our goal is to raise a total of £3,000 to help support their work. Click on the fundraising link to find out more about the charities and how you can help us reach our goal.
+
+![small](https://standanddeliver2018.github.io/assets/brand/idle-car.gif)
