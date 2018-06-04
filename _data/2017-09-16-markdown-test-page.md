@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: 
+tags: Week-1 Week-2 Week-3 Week-4 Week-5 Week-6
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
