@@ -11,6 +11,7 @@ google_verification: null
 # File management
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
+exclude: [node_modules]
 
 # Sass
 sass:
