@@ -4,6 +4,7 @@ title: Who we are
 ---
 # Team Stan'd and Deliver
 
+
 We are Rich, Dan and Ben - three previously unrelated guys brought together by the desire of achieving what most would consider a really bad idea: hopping into a dreadfully inappropriate car attempting to drive all the way from the UK to Mongolia in the name of charity and adventure.
 
 This endeavour will see us crossing 10,000 miles for 6 weeks through some of the most inhospitable driving terrain on the planet - including 20 countries, 8 time zones, 5 mountain ranges and countless potholes.
