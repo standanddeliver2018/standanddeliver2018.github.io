@@ -10,11 +10,5 @@ tag3:
 tag4:
   name: tag4
 
-livetracker:
-  name: livetracker
-
-live_tracker:
-  name: live_tracker
-  
-Live_Tracker:
-  name: Live_Tracker
+live-tracker:
+  name: live-tracker
