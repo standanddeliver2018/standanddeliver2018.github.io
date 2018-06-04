@@ -1,12 +1,10 @@
 ---
 layout: default
-title: "Markdown Test Page"
-tags: tag1 tag3
+title: "First Blog Entry"
+tags: Week_1
 ---
 
-## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
-
-# <a name="top"></a>Markdown Test Page
+# <a name="top"></a>First Blog Entry
 
 * [Headings](#Headings)
 * [Paragraphs](#Paragraphs)
