@@ -11,4 +11,4 @@ We’re not doing this just to spite our mothers. We’ve partnered up with four
 
 Our goal is to raise a total of £3,000 to help support their work. Click on the fundraising link to find out more about the charities and how you can help us reach our goal.
 
-![small](https://standanddeliver2018.github.io/assets/brand/idle-car.gif)
+<img src="https://standanddeliver2018.github.io/assets/brand/idle-car.gif" style="zoom:25%">
