@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "First Blog Entry"
-tags: Week_1
+tags: Week-1
 ---
 
 # <a name="top"></a>First Blog Entry
