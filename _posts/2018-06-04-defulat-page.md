@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: tag1 tag2 tag3 tag4 Live-Tracker
+tags: Week_1 Week_2 Week_3 Week_4 Week_5 Week_6
 ---
 
 ## Lorem Ipsum
