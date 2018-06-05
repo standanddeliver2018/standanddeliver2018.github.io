@@ -12,7 +12,7 @@ We’re not doing this just to spite our mothers. We’ve partnered up with four
 
 Our goal is to raise a total of £3,000 to help support their work. Click on the fundraising link to find out more about the charities and how you can help us reach our goal.
 
-<img src="https://standanddeliver2018.github.io/assets/brand/idle-car.gif" style="zoom:100%">
+<img src="https://standanddeliver2018.github.io/assets/brand/idle-car.gif" style="max-width:100%; max-height:100%">
 
 <br><br><br><br>
 Website design by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a>
