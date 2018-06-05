@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Live Tracker
+title: Live tracker
 ---
-# Live Tracker
-
-
 <iframe
- src='https://spotwalla.com/tripViewer.php?id=1949c5b15a6bdf2b36&showAll=yes&showInfo=no&showHome=no'
+ src='https://spotwalla.com/tripViewer.php?id=1949c5b15a6bdf2b36&hoursPast=0&showAll=yes&showHome=no&showInfo=no'
  width='600'
  height='400'
  scrolling='false'
