@@ -31,14 +31,31 @@
 		{% include topbar.html %}
 		<div class="tag_list">
 			<ul id="tag-list">
-				<li><a href="/" ><img src="/assets/img/disk.png" />Blog (C:)</a>
-			<ul>
-				{% assign tags = site.tags | sort %}
-				{% for tag in tags %}
-				<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li>
-				{% endfor %}
-			</ul>
-				</li>
+				{% assign root = site.categories | sort %}
+					{% for cat in root %}
+						{% if cat[0] == 'blog' %}
+							<li><a href="/pages/main/" ><img src="/assets/img/disk.png" />Blog (C:)</a>
+								<ul>
+									{% for post in site.categories['blog'] %}
+										{% for tag in post.tags %}
+											<li><a href="/tag/{{ tag | slugify }}/" title="{{ tag | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag | replace:'-', ' ' }}</a></li>
+										{% endfor %}
+									{% endfor %}
+								</ul>
+						{% endif %}
+					{% endfor %}
+					{% for cat in root %}
+						{% if cat[0] == 'gps' %}
+							<li><a href="/pages/gps/" ><img src="/assets/img/globe.png" />GPS</a>
+								<ul>
+									{% for post in site.categories['gps'] %}
+										{% for tag in post.tags %}
+											<li><a href="/tag/{{ tag | slugify }}/" title="{{ tag | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag | replace:'-', ' ' }}</a></li>
+										{% endfor %}
+									{% endfor %}
+								</ul>
+						{% endif %}
+					{% endfor %}
 			</ul>
 		</div>
 		<div class="post_list">
@@ -52,12 +69,7 @@
 				{% else %}
 					{{ content }}
 				{% endif %}
-			{% else %}
-				<ul>
-					{% for post in site.posts %}
-					<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+
 			{% endunless %}
 		</div>
 		<div class="post_total">
