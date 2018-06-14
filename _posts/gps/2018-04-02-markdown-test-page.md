@@ -2,7 +2,7 @@
 layout: default
 title: "Markdown Test Page"
 category: gps
-tags: livetracker
+tags: Live-Tracker2
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)

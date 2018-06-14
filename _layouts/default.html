@@ -50,7 +50,7 @@
 								<ul>
 									{% for post in site.categories['gps'] %}
 										{% for tag in post.tags %}
-											<li><a href="/tag/{{ tag | slugify }}/" title="{{ tag | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag | replace:'-', ' ' }}</a></li>
+											<li><a href="/pages/{{ tag | slugify }}/" title="{{ tag | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag | replace:'-', ' ' }}</a></li>
 										{% endfor %}
 									{% endfor %}
 								</ul>
@@ -60,16 +60,15 @@
 		</div>
 		<div class="post_list">
 			{% unless page.date %}
-				{% if page.title == 'Who we are' or page.title == 'Team Stan`d and Deliver' or page.title == '404...' or page.title == 'Live tracker' %}
+				{% if page.category == 'window' %}
 					<ul>
 						{% for post in site.posts %}
-						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{'shite'}}</a></li>
 						{% endfor %}
 					</ul>
 				{% else %}
 					{{ content }}
 				{% endif %}
-
 			{% endunless %}
 		</div>
 		<div class="post_total">

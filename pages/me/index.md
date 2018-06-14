@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Who we are
+category: window
 ---
 # Team Stan'd and Deliver
 

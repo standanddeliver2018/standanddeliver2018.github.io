@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Live tracker
+category: window
 ---
 <iframe
  src='https://spotwalla.com/tripViewer.php?id=197e45b22ea8d7129f&hoursPast=0&showAll=yes&showHome=no&showInfo=no'
