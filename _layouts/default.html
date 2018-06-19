@@ -66,6 +66,8 @@
 						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{'shite'}}</a></li>
 						{% endfor %}
 					</ul>
+				{% elsif page.url == '/' %}
+					<img src="/assets/brand/logo_black_cropped.jpg" alt="Team logo" style="width:50%">
 				{% else %}
 					{{ content }}
 				{% endif %}
