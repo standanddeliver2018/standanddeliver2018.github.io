@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Live tracker
+title: Live Tracker
 category: window
 ---
 <iframe
